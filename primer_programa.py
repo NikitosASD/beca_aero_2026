@@ -16,3 +16,5 @@ plt.ylabel("Sustentacion (N)")
 plt.title("Sustentacion vs velocidad")
 
 plt.show()
+
+plt.savefig("images/lift_curve.png")
